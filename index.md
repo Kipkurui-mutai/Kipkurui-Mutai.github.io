@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Customer segmentation]((https://github.com/Kipkurui-mutai/customer-segmentation)
+[Customer segmentation](https://github.com/Kipkurui-mutai/customer-segmentation)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
