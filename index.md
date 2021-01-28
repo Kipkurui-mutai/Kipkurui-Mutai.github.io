@@ -4,30 +4,30 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Speech recognition](https://github.com/Kipkurui-mutai/speech-recognition)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Customer segmentation]((https://github.com/Kipkurui-mutai/customer-segmentation)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-[Project 4 Title](http://example.com/)
+[Credit card fraud detection](https://github.com/Kipkurui-mutai/fraud-detection)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-[Project 5 Title](http://example.com/)
+[Time series analysis](https://github.com/Kipkurui-mutai/Time-series-analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-[Project 6 Title](http://example.com/)
+[MapReduce](https://github.com/Kipkurui-mutai/MapReduce)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Pneumonia detection using chest X-rays](https://github.com/Kipkurui-mutai/pneumonia-detection-using-chest-X-rays)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
