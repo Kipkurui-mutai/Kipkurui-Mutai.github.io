@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects. 
 
 [Speech recognition](https://github.com/Kipkurui-mutai/speech-recognition)
 <img src="images/speech recognition.jpg?raw=true"/>
@@ -31,19 +31,6 @@
 <img src="images/pneumonia.png?raw=true"/>
 
 ---
-
-
-### Category Name 2
-
-- [Project 1 Title](https://github.com/Kipkurui-mutai/speech-recognition)
-- [Project 2 Title](https://github.com/Kipkurui-mutai/customer-segmentation)
-- [Project 3 Title](https://github.com/Kipkurui-mutai/fraud-detection)
-- [Project 4 Title](https://github.com/Kipkurui-mutai/Time-series-analysis)
-- [Project 5 Title](https://github.com/Kipkurui-mutai/MapReduce)
-- [Project 6 Title](https://github.com/Kipkurui-mutai/pneumonia-detection-using-chest-X-rays)
-
----
-
 
 
 
