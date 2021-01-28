@@ -13,7 +13,7 @@
 
 ---
 [Credit card fraud detection](https://github.com/Kipkurui-mutai/fraud-detection)
-<img src="credit card.jpg?raw=true"/>
+<img src="images/credit card.jpg?raw=true"/>
 
 ---
 
